@@ -1,0 +1,4 @@
+def sum(num1: int, num2: int) --> int:
+    """This function will take the two inputs num1 and num two and add them together to calculate the sum of two numbers"""
+    num 1 + num 2 == num 3
+    return num 3
