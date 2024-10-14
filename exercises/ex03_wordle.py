@@ -71,6 +71,7 @@ def main(secret: str) -> None:
         if guess_1 == secret:
             print(emoji)
             print(f"You won in {turn}/6 turns!")
+            return None
             # indicates what is outputted to the user if the word guessed is correct
         else:
             print(emoji)
